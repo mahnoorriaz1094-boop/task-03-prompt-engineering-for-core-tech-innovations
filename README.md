@@ -1,7 +1,6 @@
 # 🤖 Prompt Engineering for Core Tech Innovations
 ### Internship Task 3 — AI Prompt Engineering Reference Document
 
----
 
 <div align="center">
 
