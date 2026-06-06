@@ -27,8 +27,7 @@
 9. [Section 4 — Business Idea Prompts](#-section-4--business-idea-prompts)
 10. [Section 5 — Chatbot Response Prompts](#-section-5--chatbot-response-prompts)
 11. [Key Prompt Engineering Principles](#-key-prompt-engineering-principles)
-12. [Tools & AI Models Compatible](#-tools--ai-models-compatible)
-13. [Author](#-author)
+12. [conclusion]
 
 ---
 
